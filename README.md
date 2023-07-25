@@ -3,7 +3,7 @@
 - 📌 São Paulo, SP
 - 🌱 Atualmente estudando bem a base da programação, como lógica, HTML, CSS e JavaScript, tornar a base forte!!
 - 💻 Correndo atrás da oportunidade de me desenvolver profissionalmente pra me tornar um desenvolvedor F*d#!!!
-- 📫 Como me achar: <a href="https://www.linkedin.com/in/vinicius-nunes-henrique-92525a224/"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.github.com/Vinicius-Muxila">
