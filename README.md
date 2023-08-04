@@ -2,7 +2,7 @@
 
 - 📌 São Paulo, SP
 - 🌱 Atualmente, fora estudar o segundo ano de análise e desenvolvimentos de sistemas, dedicado em outros cursos e codando para deixar a base do desenvolvimento bem sólida!
-- 💻 Correndo atrás da oportunidade de me desenvolver profissionalmente pra me tornar um desenvolvedor F*d#!!!
+- 💻 Correndo atrás da oportunidade de me desenvolver e evoluir profissionalmente pra me tornar um desenvolvedor F*d#!!!
 - 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <div style="display:flex; flex-direction:row;">
