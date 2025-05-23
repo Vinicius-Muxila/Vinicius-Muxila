@@ -2,7 +2,7 @@
 
 - 📌 São Paulo, SP
 - 🌱 Atualmente, dedicado codar para deixar a base do desenvolvimento bem sólida!
-- 💻 Todos os dias aprendendo, desenvolvendo, me desenvolvendo e evoluindo profissionalmente. Me tornando um desenvolvedor F*d#!!!
+- 💻 Aprendendo, desenvolvendo, me desenvolvendo e evoluindo. Me tornando um desenvolvedor F*d#!!!
 - 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <div style="display:flex; flex-direction:row;">
