@@ -1,8 +1,8 @@
 ### Eae, eu sou o Vinícius, muito prazer!! 👋
 
 - 📌 São Paulo, SP
-- 🌱 Atualmente, dedicado em cursos e codando para deixar a base do desenvolvimento bem sólida!
-- 💻 Correndo atrás da oportunidade de me desenvolver e evoluir profissionalmente pra me tornar um desenvolvedor F*d#!!!
+- 🌱 Atualmente, dedicado codar para deixar a base do desenvolvimento bem sólida!
+- 💻 Todos os dias aprendendo, desenvolvendo, me desenvolvendo e evoluindo profissionalmente. Me tornando um desenvolvedor F*d#!!!
 - 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <div style="display:flex; flex-direction:row;">
