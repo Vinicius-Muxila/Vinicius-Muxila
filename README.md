@@ -3,7 +3,7 @@
 - 📌 São Paulo, SP
 - 🌱 Atualmente dedicado em codar para deixar a base do desenvolvimento muito mais sólida!
 - 💻 Aprendendo, desenvolvendo, me desenvolvendo e evoluindo. Me tornando um desenvolvedor F*d#!!!
-- 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:21px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.github.com/Vinicius-Muxila">
