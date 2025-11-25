@@ -1,7 +1,7 @@
 ### Eae, eu sou o Vinícius, muito prazer!! 👋
 
 - 📌 São Paulo, SP
-- 🌱 Atualmente estudando FASTAPI e deixando a base do conhecimento muito mais sólida!
+- 🌱 Atualmente estudando FASTAPI e deixando a base do conhecimento e desenvolvimento muito mais sólida!
 - 💻 Aprendendo, desenvolvendo, me desenvolvendo e evoluindo. Me tornando um desenvolvedor F*d#!!!
 - 📫 Como me achar: <a href="https://www.linkedin.com/in/viniciusnuneshenrique"><img style="height:18px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
